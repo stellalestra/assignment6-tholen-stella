@@ -208,12 +208,12 @@ header nav a {
 *
 *
 *=========================================*/
-footer {
-  background: #333;
+.foo-footer footer {
+  background: #555;
   padding: 10px 30px;
   text-align: right;
 }
 
 footer img {
-  width: 40px;
+  width: 45px;
 }
