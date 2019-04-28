@@ -15,3 +15,12 @@ tour = {
   Seattle: September 1,
   Edmonton: September 4
 };
+
+//While Loops
+var i = 0;
+
+while (x < 5) {
+  console.log(Times running through the loop x);
+
+  x++;
+}
